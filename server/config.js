@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: '<enter your mongoDB connection link here>',
+    mongoURI: 'mongodb://127.0.0.1:27017/test-gfs',
 };
